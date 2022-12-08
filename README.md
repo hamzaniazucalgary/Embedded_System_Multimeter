@@ -1,1 +1,1 @@
-# Embedded_System_Multimeter
+In this project, I made a multimeter using a PICKIT 4, UART2, ADC and other peripherals. It uses a analog to digical converter to measure the voltage and resistance across a potentiometer and a resistor respectively. That voltage and resistance get displayed on the computer terminal using UART2.
